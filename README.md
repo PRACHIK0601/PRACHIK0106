@@ -11,8 +11,8 @@ Full Stack Web Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mongodb,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,python,php,astro,arduino,dotnet,firebase" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,redux,sass,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,python,php" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,sass" />
   </a>
 </p>
